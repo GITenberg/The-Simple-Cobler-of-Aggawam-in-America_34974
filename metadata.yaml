@@ -1,0 +1,34 @@
+_repo: The-Simple-Cobler-of-Aggawam-in-America_34974
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ward, Nathaniel
+    aliases:
+    - Guard, Borialis
+    - La Guard, Theodore de
+    - La Guarden, Theodore de
+    - La Garde, Borealis de
+    birthdate: 1578
+    deathdate: 1652
+    gutenberg_agent_id: '37356'
+    url: http://www.gutenberg.org/2009/agents/37356
+description: ''
+gutenberg_issued: '2011-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34974'
+  lccn: '64058247'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Politics and government -- 1642-1649'
+- !lcsh 'Freedom of religion -- Great Britain'
+- !lcsh 'Great Britain -- Church history -- 17th century'
+- !lcc 'PS'
+title: The Simple Cobler of Aggawam in America
+url: http://www.gutenberg.org/ebooks/34974
